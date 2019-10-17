@@ -235,7 +235,7 @@ class _TampilanUtamaState extends State<TampilanUtama> {
       itemBuilder: (BuildContext context, int posisi){
 
         return Padding(
-          padding: const EdgeInsets.symmetric(horizontal : 16.0, vertical:8.0),
+          padding: const EdgeInsets.symmetric(horizontal : 16.0, vertical:10.0),
           child: Card(
             child:Padding(
               padding: const EdgeInsets.all(8.0),
